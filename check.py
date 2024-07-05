@@ -1,5 +1,6 @@
 # esta sin testear y todavia no se si funciona, si funciona que alguien me lo diga, lo que hace es basicamente contactar con la api de roblox y si el usuario esta en uso sigue intentando con todas las combinaciones de 3 a 7 letras
-# in english 4 universal understanmd :)
+# vars in english 4 universal understanmd :)
+# i implemented so much decoration XD
 
 import requests
 from itertools import product
